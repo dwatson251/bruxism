@@ -1,9 +1,9 @@
 # Bruxism
 A chat bot for YouTube, Discord and IRC.
 
-[![GoDoc](https://godoc.org/github.com/iopred/bruxism?status.svg)](https://godoc.org/github.com/iopred/bruxism)
-[![Go report](http://goreportcard.com/badge/iopred/bruxism)](http://goreportcard.com/report/iopred/bruxism)
-[![Build Status](https://travis-ci.org/iopred/bruxism.svg?branch=master)](https://travis-ci.org/iopred/bruxism)
+[![GoDoc](https://godoc.org/github.com/dwatson251/bruxism?status.svg)](https://godoc.org/github.com/dwatson251/bruxism)
+[![Go report](http://goreportcard.com/badge/dwatson251/bruxism)](http://goreportcard.com/report/dwatson251/bruxism)
+[![Build Status](https://travis-ci.org/dwatson251/bruxism.svg?branch=master)](https://travis-ci.org/dwatson251/bruxism)
 
 ## Current plugin support:
 
@@ -25,9 +25,9 @@ Also supports direct invites on Discord and support for announcing streamers goi
 
 ### Installation:
 
-`go get github.com/iopred/bruxism/cmd/bruxism`
+`go get github.com/dwatson251/bruxism/cmd/bruxism`
 
-`go install github.com/iopred/bruxism/cmd/bruxism`
+`go install github.com/dwatson251/bruxism/cmd/bruxism`
 
 `cd $GOPATH/bin`
 

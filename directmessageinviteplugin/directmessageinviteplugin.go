@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 func discordInviteID(id string) string {

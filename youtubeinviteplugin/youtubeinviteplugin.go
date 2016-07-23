@@ -1,6 +1,6 @@
 package youtubeinviteplugin
 
-import "github.com/iopred/bruxism"
+import "github.com/dwatson251/bruxism"
 
 // messageFunc is a command for accepting an YouTubeInvite to a channel.
 func messageFunc(bot *bruxism.Bot, service bruxism.Service, message bruxism.Message) {

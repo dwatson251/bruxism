@@ -11,8 +11,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/iopred/bruxism"
-	"github.com/iopred/comicgen"
+	"github.com/dwatson251/bruxism"
+	"github.com/dwatson251/comicgen"
 )
 
 type comicPlugin struct {

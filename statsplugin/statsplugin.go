@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/iopred/bruxism"
-	"github.com/iopred/discordgo"
+	"github.com/dwatson251/bruxism"
+	"github.com/dwatson251/discordgo"
 )
 
 var statsStartTime = time.Now()
@@ -52,7 +52,7 @@ func StatsCommand(bot *bruxism.Bot, service bruxism.Service, message bruxism.Mes
 	}
 	w.Flush()
 
-	out := buf.String() + "\nBuilt with love by iopred."
+	out := buf.String() + "\nBuilt with love by dwatson251."
 
 	if service.SupportsMultiline() {
 		service.SendMessage(message.Channel(), out)

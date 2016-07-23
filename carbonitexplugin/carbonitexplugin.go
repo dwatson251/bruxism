@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 type carbonitexPlugin struct {

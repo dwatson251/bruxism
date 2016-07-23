@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 type topStreamersPlugin struct {

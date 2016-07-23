@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 type slowModePlugin struct {

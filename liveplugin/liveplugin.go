@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 const livePluginGuildID = "126798577153474560"

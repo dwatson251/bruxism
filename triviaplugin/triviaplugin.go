@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 type question struct {

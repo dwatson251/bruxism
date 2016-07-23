@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 	"github.com/renstrom/fuzzysearch/fuzzy"
 )
 

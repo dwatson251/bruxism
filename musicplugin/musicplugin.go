@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iopred/bruxism"
-	"github.com/iopred/discordgo"
+	"github.com/dwatson251/bruxism"
+	"github.com/dwatson251/discordgo"
 )
 
 type MusicPlugin struct {

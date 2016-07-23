@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/iopred/bruxism"
-	"github.com/iopred/discordgo"
+	"github.com/dwatson251/bruxism"
+	"github.com/dwatson251/discordgo"
 )
 
 var userIDRegex = regexp.MustCompile("<@!?([0-9]*)>")

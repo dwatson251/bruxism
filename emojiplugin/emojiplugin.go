@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/iopred/bruxism"
+	"github.com/dwatson251/bruxism"
 )
 
 func emojiFile(base, s string) string {
